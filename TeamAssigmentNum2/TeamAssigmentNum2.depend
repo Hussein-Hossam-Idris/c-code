@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520160006 source:c:\users\forwa\desktop\c++ projects\teamassigmentnum2\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+
